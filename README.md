@@ -98,4 +98,4 @@ Not specified
 
 ### Contributions
 
-Thanks for [happen2me](https://github.com/happen2me) for contributing this dataset.
+Thanks for [yuancu](https://github.com/yuancu) for contributing this dataset.
