@@ -3,7 +3,7 @@ license: apache-2.0
 source: https://github.com/KGQA/KGQA-datasets
 ---
 
-# Dataset Card for Dataset Name
+# Dataset Card for ComplexWebQuestions
 
 ## Dataset Description
 
